@@ -1198,7 +1198,7 @@ The following spellings are proposed candidates for the ``None``-aware index
 access/slicing operator. The punctuation used for this operator ought to
 resemble the punctuation used for the ``None``-aware attribute access.
 
-1. ``foo?['bar']``, ``foo ? ['bar']
+1. ``foo?['bar']``, ``foo ? ['bar']``
     - Pros: same spelling as C# and Dart
     - Cons: punctuation is ugly; possible conflict with IPython; difficult to
       google to find out what it means
